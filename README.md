@@ -29,7 +29,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kohakublueleaf&show_icons=true&locale=en" alt="kohakublueleaf" /></p>
 
-<a href="https://www.buymeacoffee.com/kblueleaf" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+### Sponsorship
+
+<div style="display: flex; flex-direction: column;">
+  <img src="https://github.com/KohakuBlueleaf/KohakuBlueleaf/assets/59680068/3ce145c3-0507-448f-af6a-4476b2167e02" width="20%" />
+  <a href="https://www.buymeacoffee.com/kblueleaf" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</div>
 
 paypal.me: https://www.paypal.com/paypalme/kblueleaf<br>
 BTC: 36VHoCKxgp2u3YWQ8gNMDQR3fT49S5sRtf<br>
