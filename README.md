@@ -31,6 +31,7 @@
 
 <a href="https://www.buymeacoffee.com/kblueleaf" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+paypal.me: https://www.paypal.com/paypalme/kblueleaf
 BTC: 36VHoCKxgp2u3YWQ8gNMDQR3fT49S5sRtf<br>
 ETH: 0x8023c8c0a10a4da4e6746cbd238a8bc990fbba60<br>
 LTC: MCpMKubB8eeKPZ6LsfW9A7pJP23YLoLT9T
