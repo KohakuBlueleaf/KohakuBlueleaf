@@ -1,6 +1,7 @@
 <h1 align="center">Here is KohakuBlueLeaf UwU</h1>
 
 ##### My Homepage: https://kblueleaf.net/
+##### My DC server: https://discord.gg/tPBsKDyRR5
 
 ### Kohaku: A cute dragon girl
 ### BlueLeaf: An undergraduate student in Taiwan
