@@ -30,6 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kohakublueleaf&show_icons=true&locale=en" alt="kohakublueleaf" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KohakuBlueleaf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Sponsorship
 
