@@ -25,11 +25,7 @@
 <a href="https://discord.gg/ZwgFFT4bSy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZwgFFT4bSy" height="30" width="40" /></a>
 </p>
 
-<p>
-  <a href="https://gitroll.io/profile/uUz3o1PeEZsTifiu6zDPICXT9b8b2">
-  <img src="https://gitroll-nauzltrrv-metamory-dev.vercel.app/api/og/v2/Kohaku-Blueleaf?imageUrl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F59680068%3Fv%3D4&devType=Exemplary+AI%2FML+Developer&overallScore=9.29&overallScoreCDF=100&overallRatingLetter=S&isContributor=true&scores=4.7%2C4.9%2C4.4&regionRank=1%2CTW&schoolRank=1%2Cnthu" />
-  </a>
-</p>
+<a href="https://gitroll.io/profile/uUz3o1PeEZsTifiu6zDPICXT9b8b2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUz3o1PeEZsTifiu6zDPICXT9b8b2" alt="GitRoll Profile Badge"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohakublueleaf&show_icons=true&locale=en&layout=compact" alt="kohakublueleaf" /></a></p>
 
