@@ -25,7 +25,7 @@
 <a href="https://discord.gg/ZwgFFT4bSy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZwgFFT4bSy" height="30" width="40" /></a>
 </p>
 
-<a href="https://gitroll.io/profile/uUz3o1PeEZsTifiu6zDPICXT9b8b2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUz3o1PeEZsTifiu6zDPICXT9b8b2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uUz3o1PeEZsTifiu6zDPICXT9b8b2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUz3o1PeEZsTifiu6zDPICXT9b8b2&v=1" alt="GitRoll Profile Badge"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohakublueleaf&show_icons=true&locale=en&layout=compact" alt="kohakublueleaf" /></a></p>
 
