@@ -4,7 +4,7 @@
         <a href="https://kblueleaf.net" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="https://kblueleaf.net/posts/" target="_blank"><b>📓 Blog</b></a> |
         <a href="https://www.linkedin.com/in/kblueleaf" target="_blank"><b>🧳 Linkedin</b></a> |
-        <a href="https://kblueleaf.net/documents/CV-pub.pdf" target="_blank"><b>📜 Resume</b></a> |
+        <a href="https://kblueleaf.net/document/CV-pub.pdf" target="_blank"><b>📜 Resume</b></a> |
         <a href="https://scholar.google.com/citations?user=XmW5oGIAAAAJ" target="_blank"><b>🎓 Google Scholar</b></a> |
         <a href="https://discord.gg/tPBsKDyRR5" target="_blank"><b>🌐 Discord</b></a> 
     </p>
