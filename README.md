@@ -28,8 +28,16 @@ Currently working on Generative Models, PEFT, Text-Image Dataset and MLR(Machine
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kohakublueleaf&show_icons=true&locale=en&theme=nord"  width="33.3%" alt="kohakublueleaf" /></p>
 </div>
+<!-- Copy-paste in your Readme.md file -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KohakuBlueleaf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59680068" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59680068&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @KohakuBlueleaf" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59680068&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### Sponsorship
 <details> 
