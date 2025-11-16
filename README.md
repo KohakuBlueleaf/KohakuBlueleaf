@@ -12,7 +12,7 @@
 <h1 align="center">Here is KohakuBlueLeaf UwU</h1>
 
 ### Kohaku: A cute dragon girl
-### BlueLeaf: An undergraduate student in Taiwan
+### BlueLeaf: A graduate student in Taiwan
 
 ---
 
